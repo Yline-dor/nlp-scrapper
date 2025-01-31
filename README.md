@@ -23,3 +23,24 @@ Ce projet collecte des actualités à partir de différentes sources, applique d
    ```bash
    git clone https://github.com/Yline-dor/nlp-scrapper.git
    cd nlp-scrapper
+
+2.Installer les dépendances
+pip install -r requirements.txt
+
+## 🔧 Utilisation
+🔹 Scraping des actualités
+   ```bash
+  python scraper_news.py
+
+🔹 Analyse NLP des articles
+   ```bash
+python nlp_enriched_news.py
+
+🔹 Entraînement du modèle
+   ```bash
+python results/training_model.py
+
+##📬 Contact
+📍 LinkedIn | 📩 Email
+
+
