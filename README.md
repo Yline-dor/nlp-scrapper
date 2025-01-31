@@ -21,5 +21,5 @@ Ce projet collecte des actualités à partir de différentes sources, applique d
 ## 🚀 **Installation**
 1. Cloner le dépôt  
    ```bash
-   git clone https://github.com/yline-dor/nlp-scrapper.git
+   git clone https://github.com/Yline-dor/nlp-scrapper.git
    cd nlp-scrapper
